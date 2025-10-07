@@ -1,4 +1,4 @@
 # Python_1st_code
 This is drawing using Python.
 <br>
-Using Python Libraries
+With use of python library Tkinter which is used for creating graphical user interfaces(gui)
