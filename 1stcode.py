@@ -9,3 +9,4 @@ def draw(event):
 
 canvas.bind("<B1-Motion>",draw)
 r.mainloop()
+print("Hello world")
